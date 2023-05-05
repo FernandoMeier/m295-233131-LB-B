@@ -164,9 +164,8 @@ app.delete('/tasks/:id', (req, res) => {
 // ------------------------ Auth-Anforderungen: ------------------------
 
 app.post('/login', (req, res) => {
-  const email = req.query.email
+  const { email, password } = req.body
   if (email.match(/^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$/)) { // email validator inspired by Robin Trachsel (https://github.com/DoctorProgrammer)
-    const password = req.query.password
     if (password == 'm295') {
       req.session.email = email
       res.status(200).json({ email: req.session.email })
