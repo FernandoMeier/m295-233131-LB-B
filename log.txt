@@ -1,0 +1,35 @@
+commit 13d6e5c50f7729e99289420bb65e8305bf43a103
+Author: Ferni <meierf@bzz.ch>
+Date:   Fri May 5 14:50:36 2023 +0000
+
+    patch: added sources to README
+
+commit 4b3019378a958778c81fa5f27ffa3b65d003b5f3
+Author: Ferni <meierf@bzz.ch>
+Date:   Fri May 5 14:45:47 2023 +0000
+
+    added: README.md and testing.md
+
+commit da3c1297dfe1f528ae5177fee606f7dba6d94ce2
+Author: Ferni <meierf@bzz.ch>
+Date:   Fri May 5 12:46:17 2023 +0000
+
+    added: session verification, changed query to body
+
+commit f15f5b43eabdcd543f6dadc8ee6776ca480a62e2
+Author: Ferni <meierf@bzz.ch>
+Date:   Fri May 5 09:20:36 2023 +0000
+
+    added: ESlint for better code style, idCheck
+
+commit d4c1c5b510f904f5d0bfe51135c6fd5f3424a9ed
+Author: Ferni <meierf@bzz.ch>
+Date:   Fri May 5 07:50:01 2023 +0000
+
+    added: Made TaskAPI, updated package
+
+commit 1b31b128d567b6639804399024b37553096ee577
+Author: Ferni <meierf@bzz.ch>
+Date:   Fri May 5 06:17:40 2023 +0000
+
+    initial commit
