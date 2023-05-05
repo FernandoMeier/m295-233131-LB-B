@@ -11,3 +11,6 @@
 ## Runtime
 - node version v18.16.0 or higher
 - npm version 9.5.1 or higher
+
+## Sources
+This project was made by Fernando Meier (https://github.com/FernandoMeier), code directly used from other people used in this code are maked as such, else there were some parts inspired by the meaterials we learned in the m295 course. This is a non profit and school only use project.
